@@ -1,4 +1,3 @@
-# yukkimusic
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
@@ -14,7 +13,6 @@
 
 
 # 🔗 An Overview
-
 
 Here's a brief high-level overview of the Yukki Music Bot:
 
@@ -61,22 +59,22 @@ For more information on the technologies that power the Yukki Music Bot, check o
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
 <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimu/deployment/heroku)
+> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
 
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/abdullah626/yukkimu"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamYukki/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
 
 ## 🖇 VPS Deployment
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusic/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/abdullah626/yukkimusic
+shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ sudo bash setup
 ```

@@ -12,7 +12,7 @@
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/42CyRh?referralCode=Roya_P)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AdHg7r?referralCode=Roya_P)
 # 🔗 An Overview
 
 

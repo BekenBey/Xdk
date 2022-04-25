@@ -12,10 +12,7 @@
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
 
-
-### Railway (Reommanded)
-<p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2abdullah626%2Fyukkimusic&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CSESSION_STRING%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CMUSİC_BOT_NAME&optionalEnvs=API_IDDesc=User+Account+Telegram+API_ID+get+it+from+my.telegram.org%2Fapps&API_HASHDesc=User+Account+Telegram+API_HASH+get+it+from+my.telegram.org%2Fapps&BOT_TOKENDesc=Your+Telegram+Bot+Token%2C+get+it+from+%40Botfather+XD&SESSION_STRINGDesc=Pyrogram+Session+String+of+User+Account%2C+get+it+from+%40genStr_robot&LOG_GROUP_IDesc=ID+of+your+Channel+or+Group+where+the+bot+will+works+or+stream+videos&OWNERDesc=ID+of+Auth+Users+who+can+use+Admin+commands+%28for+multiple+users+seperated+by+space%29&MUSİC_BOT_NAMEDesc=Your+Telegram+Bot+Name+without+%40%2C+get+it+from+%40Botfather+XD&REPLY_MESSAGEDesc=A+reply+message+to+those+who+message+the+USER+account+in+PM.+Make+it+blank+if+you+do+not+need+this+feature.&REPLY_MESSAGEDefault=Hello+Sir%2C+I%27m+a+bot+to+stream+videos+on+telegram+voice+chat%2C+not+having+time+to+chat+with+you+%F0%9F%98%82%21&referralCode=SAFONE"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/42CyRh?referralCode=Roya_P)
 # 🔗 An Overview
 
 

@@ -13,10 +13,9 @@
 * Multi-Language support
 
 
-# 🔗 An Overview
-
 ## Railway (Reommanded)
 <p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fabdullah626%2Fyukkimusic&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CSESSION_STRING%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CMUSIC_BOT_NAME& src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+# 🔗 An Overview
 
 
 Here's a brief high-level overview of the Yukki Music Bot:
